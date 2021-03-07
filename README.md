@@ -23,9 +23,13 @@
         <tr>
             <td>Recipe Blog <br> Backend-DJANGO <br> Frontend-REACT <br> ( In Progress )</td>
             <td><a href="https://github.com/nurkocar/BlogProject-Frontend-React" target="_blank">Repo details</a></td>
-            <td><a href="https://myrecipeblog.herokuapp.com/" target="_blank">Click here to see the project</a></td>
+            <td>
+            <a href="https://recipe-blog-django-backend.herokuapp.com/" target="_blank">Click here to check backend</a>
+            <br>
+            <a href="https://myrecipeblog.herokuapp.com/" target="_blank">Click here to check frontend</a></td>
             <td><img style="width:500px;" src="./images/RecipeBlog1.PNG" alt="ProjectView" height=130></td> 
         </tr>
         
 </tbody>
 </table>
+
