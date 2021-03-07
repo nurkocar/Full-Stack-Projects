@@ -24,6 +24,8 @@
             <td>Recipe Blog <br> Backend-DJANGO <br> Frontend-REACT <br> ( In Progress )</td>
             <td><a href="https://github.com/nurkocar/BlogProject-Frontend-React" target="_blank">Repo details</a></td>
             <td>
+            Make sure you first run the backend
+            <br>
             <a href="https://recipe-blog-django-backend.herokuapp.com/" target="_blank">Click here to check backend</a>
             <br>
             <a href="https://myrecipeblog.herokuapp.com/" target="_blank">Click here to check frontend</a></td>
